@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Giga/Desktop/PlantillaParcial/app/src/main/res/layout/activity_main.xml" value="0.3375" />
+        <entry key="..\:/Users/Giga/Desktop/PlantillaParcial/app/src/main/res/layout/fragment_home.xml" value="0.3375" />
+        <entry key="..\:/Users/Giga/Desktop/PlantillaParcial/app/src/main/res/layout/fragment_home_scores.xml" value="0.33" />
+        <entry key="..\:/Users/Giga/Desktop/PlantillaParcial/app/src/main/res/layout/fragment_team_a.xml" value="0.3375" />
+        <entry key="..\:/Users/Giga/Desktop/PlantillaParcial/app/src/main/res/layout/fragment_team_b.xml" value="0.33" />
+        <entry key="..\:/Users/Giga/Desktop/PlantillaParcial/app/src/main/res/layout/fragment_winner.xml" value="0.3375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GanadorTeam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="heading_team_a">TEAM A</string>
+    <string name="text_one_goal">+1 GOL</string>
+    <string name="text_winner">Ganador</string>
+    <string name="text_loser">Perdedor</string>
+    <string name="text_add_one_goal">+1 GOL</string>
+    <string name="heading_team_b">TEAM B</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeScoresFragment">
+
+    <fragment
+        android:id="@+id/homeScoresFragment"
+        android:name="com.valenzuela.ganadorteam.HomeScoresFragment"
+        android:label="HomeScoresFragment" >
+        <action
+            android:id="@+id/action_homeScoresFragment_to_winnerFragment"
+            app:destination="@id/winnerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/winnerFragment"
+        android:name="com.valenzuela.ganadorteam.winnerFragment"
+        android:label="winnerFragment" />
+</navigation>
